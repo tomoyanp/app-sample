@@ -1,4 +1,4 @@
-npm install
 cd app-sample
-npx expo start
+npm install
+npm run start
 
